@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color:white
+}
+
+.container{
+    border:2px solid purple;
+    width:fit-content;
+}
+
+
+#tableData td{
+ padding: 0px 10px;
+}
